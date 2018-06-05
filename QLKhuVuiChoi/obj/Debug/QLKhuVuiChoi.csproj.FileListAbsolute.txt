@@ -1,0 +1,208 @@
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe.config
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.pdb
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.dll
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Design.dll
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.dll
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.pdb
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.xml
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csprojResolveAssemblyReference.cache
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmConnect.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmMain.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDashboard.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucNhanVien.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucPhongBan.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Properties.Resources.resources
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.GenerateResource.Cache
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.exe
+C:\Users\vuman\Documents\Visual Studio 2013\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.pdb
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe.config
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.pdb
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Design.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.pdb
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.xml
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.flash.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachCu.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachMoi.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBieuDo.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmConnect.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmInVe.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmMain.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin1.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmQueQuan.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucBanVe.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDashboard.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDichVu.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDoanhThu.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucGioiThieu.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhachHang.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhuTroChoi.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucLuong.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucNhanVien.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucPhongBan.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThietBi.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThongKe.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucTroChoi.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Properties.Resources.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.GenerateResource.Cache
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.exe
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.pdb
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csprojResolveAssemblyReference.cache
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucWebBrowser.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\Interop.WMPLib.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\Interop.WMPLib.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.ResolveComReference.cache
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucMedia.resources
+D:\Projects\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucCreatAcc.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe.config
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\Interop.WMPLib.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\AxInterop.WMPLib.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.ResolveComReference.cache
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.exe
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.pdb
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.pdb
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Design.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Fonts.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\System.Windows.Interactivity.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.pdb
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.xml
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\Interop.WMPLib.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\AxInterop.WMPLib.dll
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csprojResolveAssemblyReference.cache
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmXuatHoaDon.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucCreatAcc.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.flash.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachCu.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachMoi.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBieuDo.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmConnect.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmInVe.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmMain.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin1.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmQueQuan.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucBanVe.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDashboard.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDichVu.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDoanhThu.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucGioiThieu.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucHoaDon.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhachHang.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhuTroChoi.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucLuong.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucMedia.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucNhanVien.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucPhongBan.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThietBi.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThongKe.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucTroChoi.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucWebBrowser.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Properties.Resources.resources
+D:\TT CSDL\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.GenerateResource.Cache
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe.config
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\Interop.WMPLib.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.ResolveComReference.cache
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.exe
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.pdb
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.pdb
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Design.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.pdb
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.xml
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\Interop.WMPLib.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csprojResolveAssemblyReference.cache
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmXuatHoaDon.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucCreatAcc.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.flash.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachCu.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachMoi.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBieuDo.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmConnect.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmInVe.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmMain.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin1.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmQueQuan.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucBanVe.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDashboard.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDichVu.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDoanhThu.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucGioiThieu.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucHoaDon.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhachHang.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhuTroChoi.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucLuong.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucMedia.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucNhanVien.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucPhongBan.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThietBi.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThongKe.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucTroChoi.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucWebBrowser.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Properties.Resources.resources
+C:\Users\vuman\Desktop\Source_QLKVC\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.GenerateResource.Cache
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe.config
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\Interop.WMPLib.dll
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.ResolveComReference.cache
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.exe
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.pdb
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.exe
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\QLKhuVuiChoi.pdb
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.dll
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.pdb
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\MahApps.Metro.xml
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\Interop.WMPLib.dll
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csprojResolveAssemblyReference.cache
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmXuatHoaDon.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucCreatAcc.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.flash.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachCu.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBanVe_KhachMoi.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmBieuDo.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmConnect.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmInVe.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmMain.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmLogin1.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.frmQueQuan.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucBanVe.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDashboard.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDichVu.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucDoanhThu.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucGioiThieu.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucHoaDon.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhachHang.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucKhuTroChoi.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucLuong.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucMedia.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucNhanVien.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucPhongBan.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThietBi.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucThongKe.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucTroChoi.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Presentation.ucWebBrowser.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.Properties.Resources.resources
+C:\Users\BlackWolf\Desktop\Nhom6_QLKhuVuiChoi\QLKhuVuiChoi\QLKhuVuiChoi\obj\Debug\QLKhuVuiChoi.csproj.GenerateResource.Cache

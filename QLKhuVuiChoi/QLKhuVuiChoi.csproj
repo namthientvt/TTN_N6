@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36479170-BA81-4C8B-B6AE-41ED98503411}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLKhuVuiChoi</RootNamespace>
+    <AssemblyName>QLKhuVuiChoi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="MahApps.Metro">
+      <HintPath>..\packages\MahApps.Metro.1.5.0\lib\net45\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\C\DLL Metro\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>D:\C\DLL Metro\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>D:\C\DLL Metro\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.5.0\lib\net45\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\BanVe.cs" />
+    <Compile Include="DataAccess\ConnectionString.cs" />
+    <Compile Include="DataAccess\Quyen.cs" />
+    <Compile Include="DataAccess\ThamSoKetNoi.cs" />
+    <Compile Include="DataAccess\XuatHD.cs" />
+    <Compile Include="KhuVuiChoiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KhuVuiChoiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmXuatHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmXuatHoaDon.designer.cs">
+      <DependentUpon>frmXuatHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucCreatAcc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucCreatAcc.designer.cs">
+      <DependentUpon>ucCreatAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\flash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\flash.Designer.cs">
+      <DependentUpon>flash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmBanVe_KhachCu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmBanVe_KhachCu.Designer.cs">
+      <DependentUpon>frmBanVe_KhachCu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmBanVe_KhachMoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmBanVe_KhachMoi.Designer.cs">
+      <DependentUpon>frmBanVe_KhachMoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmBieuDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmBieuDo.Designer.cs">
+      <DependentUpon>frmBieuDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmConnect.Designer.cs">
+      <DependentUpon>frmConnect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmInVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmInVe.Designer.cs">
+      <DependentUpon>frmInVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmLogin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmLogin1.Designer.cs">
+      <DependentUpon>frmLogin1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmQueQuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmQueQuan.Designer.cs">
+      <DependentUpon>frmQueQuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MediaFile.cs" />
+    <Compile Include="Presentation\ucBanVe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucBanVe.Designer.cs">
+      <DependentUpon>ucBanVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucDashboard.Designer.cs">
+      <DependentUpon>ucDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucDichVu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucDichVu.designer.cs">
+      <DependentUpon>ucDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucDoanhThu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucDoanhThu.Designer.cs">
+      <DependentUpon>ucDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucGioiThieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucGioiThieu.Designer.cs">
+      <DependentUpon>ucGioiThieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucHoaDon.designer.cs">
+      <DependentUpon>ucHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucKhachHang.Designer.cs">
+      <DependentUpon>ucKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucKhuTroChoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucKhuTroChoi.designer.cs">
+      <DependentUpon>ucKhuTroChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucLuong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucLuong.Designer.cs">
+      <DependentUpon>ucLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucMedia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucMedia.Designer.cs">
+      <DependentUpon>ucMedia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucNhanVien.Designer.cs">
+      <DependentUpon>ucNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucPhongBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucPhongBan.Designer.cs">
+      <DependentUpon>ucPhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucThietBi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucThietBi.designer.cs">
+      <DependentUpon>ucThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucThongKe.Designer.cs">
+      <DependentUpon>ucThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucTroChoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucTroChoi.designer.cs">
+      <DependentUpon>ucTroChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ucWebBrowser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\ucWebBrowser.Designer.cs">
+      <DependentUpon>ucWebBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentation\frmXuatHoaDon.resx">
+      <DependentUpon>frmXuatHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucCreatAcc.resx">
+      <DependentUpon>ucCreatAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\flash.resx">
+      <DependentUpon>flash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmBanVe_KhachCu.resx">
+      <DependentUpon>frmBanVe_KhachCu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmBanVe_KhachMoi.resx">
+      <DependentUpon>frmBanVe_KhachMoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmBieuDo.resx">
+      <DependentUpon>frmBieuDo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmConnect.resx">
+      <DependentUpon>frmConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmInVe.resx">
+      <DependentUpon>frmInVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmLogin1.resx">
+      <DependentUpon>frmLogin1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmQueQuan.resx">
+      <DependentUpon>frmQueQuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucBanVe.resx">
+      <DependentUpon>ucBanVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucDashboard.resx">
+      <DependentUpon>ucDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucDichVu.resx">
+      <DependentUpon>ucDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucDoanhThu.resx">
+      <DependentUpon>ucDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucGioiThieu.resx">
+      <DependentUpon>ucGioiThieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucHoaDon.resx">
+      <DependentUpon>ucHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucKhachHang.resx">
+      <DependentUpon>ucKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucKhuTroChoi.resx">
+      <DependentUpon>ucKhuTroChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucLuong.resx">
+      <DependentUpon>ucLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucMedia.resx">
+      <DependentUpon>ucMedia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucNhanVien.resx">
+      <DependentUpon>ucNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucPhongBan.resx">
+      <DependentUpon>ucPhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucThietBi.resx">
+      <DependentUpon>ucThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucThongKe.resx">
+      <DependentUpon>ucThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucTroChoi.resx">
+      <DependentUpon>ucTroChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ucWebBrowser.resx">
+      <DependentUpon>ucWebBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="KhuVuiChoiDataSet.xsc">
+      <DependentUpon>KhuVuiChoiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KhuVuiChoiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KhuVuiChoiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KhuVuiChoiDataSet.xss">
+      <DependentUpon>KhuVuiChoiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Business\Component\" />
+    <Folder Include="Business\EntitiesClass\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_admin_87402.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_emblem-people_24702.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_contact-new_23203.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_arrow_point_arrow_214665.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_create-ticket_47696.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_excel_272697.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_export_17365.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-avatar-human-admin-login_2203549.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icons_password_1564520.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-avatar-human-admin-login_2203549.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_arrow-right_173148.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Analytics_206464.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_7-Image capture_34338.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_games_49728.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_package_games_18175.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_french_fries_44927.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Sales-by-Payment-Method-rep_49616.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_pie-chart_87451.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_17902.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_AEON-alt_1175366.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anhve.png" />
+    <Content Include="Resources\bnr-binh-tan.jpg" />
+    <Content Include="Resources\bookin.vn-1-khu-vui-choi-cam-giac-manh-ha-long-3152016.jpg" />
+    <Content Include="Resources\bookin.vn-1-khu-vui-choi-cam-giac-manh-ha-long-31520161.jpg" />
+    <None Include="Resources\VE.png" />
+    <None Include="Resources\if_system-software-update_24350 %281%29.png" />
+    <None Include="Resources\if_system-software-update_24350.png" />
+    <None Include="Resources\if_minus_1645995.png" />
+    <None Include="Resources\if_sign-add_299068.png" />
+    <None Include="Resources\if_kmixdocked_error_7209.png" />
+    <None Include="Resources\if_firefox-icon_7113.png" />
+    <None Include="Resources\if_money_87444.png" />
+    <None Include="Resources\if_piechart_1055011.png" />
+    <None Include="Resources\if_search_173095.png" />
+    <None Include="Resources\if_23_61487.png" />
+    <None Include="Resources\if_document-print-preview_118912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
